@@ -108,7 +108,7 @@ symphonyd gentx wallet 1000000note \
 
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/symphony
+git clone https://github.com/<YOUR_GITHUB_REPO>
 cd symphony
 mkdir -p networks/symphony-1/gentxs
 cp ~/.symphonyd/config/gentx/*.json networks/symphony-1/gentxs/<your_moniker>.json
