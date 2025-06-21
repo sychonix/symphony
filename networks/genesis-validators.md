@@ -34,7 +34,7 @@ go version
 
 ```bash
 cd $HOME
-git clone https://github.com/symphony-protocol/symphony
+git clone https://github.com/Orchestra-Labs/symphony
 cd symphony
 git checkout v1.0.0
 make install
