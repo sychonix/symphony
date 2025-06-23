@@ -2493,7 +2493,7 @@
         "expedited_min_deposit": [
           {
             "denom": "note",
-            "amount": "2000000"
+            "amount": "5000000000"
           }
         ],
         "burn_vote_quorum": false,
